@@ -191,12 +191,12 @@ public class FrameBTController : MonoBehaviour
         }
     }
 
-    bool IsEqual(string uuid1, string uuid2)
+    private bool IsEqual(string uuid1, string uuid2)
     {
         return (uuid1.ToUpper().Equals(uuid2.ToUpper()));
     }
 
-    public void SendString(string message)
+    private void SendString(string message)
     {
         if (_connected)
         {
@@ -214,8 +214,8 @@ public class FrameBTController : MonoBehaviour
         }
     }
 
-    // Public method to send messages to Frame
-    public void OnButtonPress(string message)
+    // Sample public method to send messages to Frame and show on display
+    public void DisplayMessage(string message)
     {
         string luaString = "frame.display.text('" + message + "', 50, 50); frame.display.show()";
         SendString(luaString);
