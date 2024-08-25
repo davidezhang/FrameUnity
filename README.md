@@ -9,7 +9,7 @@ Frame currently doesn't have a Unity SDK, so this script is a starting point to 
 - Write to Frame's characteristic to send data in the form of Lua strings
 
 ## Unity Setup
-This script uses a paid plugin asset called [Bluetooth LE for iOS, tvOS and Android](https://assetstore.unity.com/packages/tools/network/bluetooth-le-for-ios-tvos-and-android-26661). You will need to import this asset into your project.]
+This script uses a paid plugin asset called [Bluetooth LE for iOS, tvOS and Android](https://assetstore.unity.com/packages/tools/network/bluetooth-le-for-ios-tvos-and-android-26661). You will need to import this asset into your project.
 This asset has worked well for me in th past when connecting to BLE devices. It is simple to use and provides examples to get started. It also offers the ability to request for MTU size, which other similar plugins don't do.
 
 ## References
