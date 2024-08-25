@@ -13,6 +13,6 @@ This script uses a paid plugin asset called [Bluetooth LE for iOS, tvOS and Andr
 This asset has worked well for me in th past when connecting to BLE devices. It is simple to use and provides examples to get started. It also offers the ability to request for MTU size, which other similar plugins don't do.
 
 ## References
-- [Frame Lua API Reference] (https://docs.brilliant.xyz/frame/building-apps-lua/)
-- [Frame BLE Documentation] (https://docs.brilliant.xyz/frame/building-apps-bluetooth-specs/)
-- [Brillian Labs GitHub] (https://github.com/brilliantlabsAR)
+- [Frame Lua API Reference](https://docs.brilliant.xyz/frame/building-apps-lua/)
+- [Frame BLE Documentation](https://docs.brilliant.xyz/frame/building-apps-bluetooth-specs/)
+- [Brillian Labs GitHub](https://github.com/brilliantlabsAR)
