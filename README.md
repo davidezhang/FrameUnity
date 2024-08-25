@@ -14,11 +14,11 @@ This asset has worked well for me in th past when connecting to BLE devices. It 
 
 ## Goals
 The goal of this project is to continue to add functionality to get closer to a full Unity SDK for Frame. Priorities for me include:
-- [] Sending/Receiving BLE data in chunks
-- [] Camera (take photo and send to Unity build)
-- [] Microphone (record audio and send to Unity build)
-- [] IMU (detect tap)
-- [] Display (draw UI)
+- [ ] Sending/Receiving BLE data in chunks
+- [ ] Camera (take photo and send to Unity build)
+- [ ] Microphone (record audio and send to Unity build)
+- [ ] IMU (detect tap)
+- [ ] Display (draw UI)
 
 ## References
 - [Frame Lua API Reference](https://docs.brilliant.xyz/frame/building-apps-lua/)
