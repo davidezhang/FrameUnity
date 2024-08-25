@@ -1,5 +1,5 @@
 # FrameUnity
-This is a simple Unity C# script that connects an Android build to [Frame AR glasses] (https://brilliant.xyz/products/frame) by Brilliant Labs via BLE. It should work with iOS but it hasn't been tested.
+This is a simple Unity C# script that connects an Android build to [Frame AR glasses](https://brilliant.xyz/products/frame) by Brilliant Labs via BLE. It should work with iOS but it hasn't been tested.
 Frame is a pair of open-source glasses with BLE connectivity, a monocular color OLED display, a microphone, an IMU, a RGB camera, and a rechargeable battery. 
 Frame currently doesn't have a Unity SDK, so this script is a starting point to connect to Frame and send/receive data.
 
